@@ -1,1 +1,8 @@
-# DTG
+![Screenshot 2024-06-14 205413](https://github.com/Amanmanthira/DTG/assets/126964186/6879e454-be12-441b-b780-9bfc438a32cb)
+![Screenshot 2024-06-14 205431](https://github.com/Amanmanthira/DTG/assets/126964186/00e7d6f4-4c81-40ce-8f6a-a1739d19f834)
+![Screenshot 2024-06-14 205443](https://github.com/Amanmanthira/DTG/assets/126964186/806a2479-8d5b-4153-a7d4-8a6eee31feff)
+![Screenshot 2024-06-14 205457](https://github.com/Amanmanthira/DTG/assets/126964186/a08f10bd-098a-4c79-aa10-d00567bf1b28)
+![Screenshot 2024-06-14 205457](https://github.com/Amanmanthira/DTG/assets/126964186/4f5169f2-a12c-4570-92f0-966f7adac2ac)
+![Screenshot 2024-06-14 205507](https://github.com/Amanmanthira/DTG/assets/126964186/f61fefa6-a259-439a-a70e-7eaa81e9a3d4)
+![Screenshot 2024-06-14 205513](https://github.com/Amanmanthira/DTG/assets/126964186/745817d2-1a02-436d-84e0-1b6db31f8fcd)
+![Screenshot 2024-06-14 205711](https://github.com/Amanmanthira/DTG/assets/126964186/463ecc2a-3d9f-4898-a973-1efb40538c8b)
