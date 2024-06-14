@@ -1,70 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-06-14 205413](https://github.com/Amanmanthira/DTG/assets/126964186/6879e454-be12-441b-b780-9bfc438a32cb)
+![Screenshot 2024-06-14 205431](https://github.com/Amanmanthira/DTG/assets/126964186/00e7d6f4-4c81-40ce-8f6a-a1739d19f834)
+![Screenshot 2024-06-14 205443](https://github.com/Amanmanthira/DTG/assets/126964186/806a2479-8d5b-4153-a7d4-8a6eee31feff)
+![Screenshot 2024-06-14 205457](https://github.com/Amanmanthira/DTG/assets/126964186/a08f10bd-098a-4c79-aa10-d00567bf1b28)
+![Screenshot 2024-06-14 205457](https://github.com/Amanmanthira/DTG/assets/126964186/4f5169f2-a12c-4570-92f0-966f7adac2ac)
+![Screenshot 2024-06-14 205507](https://github.com/Amanmanthira/DTG/assets/126964186/f61fefa6-a259-439a-a70e-7eaa81e9a3d4)
+![Screenshot 2024-06-14 205513](https://github.com/Amanmanthira/DTG/assets/126964186/745817d2-1a02-436d-84e0-1b6db31f8fcd)
+![Screenshot 2024-06-14 205711](https://github.com/Amanmanthira/DTG/assets/126964186/463ecc2a-3d9f-4898-a973-1efb40538c8b)
